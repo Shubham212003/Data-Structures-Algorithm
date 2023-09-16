@@ -1,0 +1,1023 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Triangle",
+            "request": "launch",
+            "mainClass": "Triangle",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "MultiplicationTable",
+            "request": "launch",
+            "mainClass": "Loops.MultiplicationTable",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "SumEvenAndOdd",
+            "request": "launch",
+            "mainClass": "Loops.SumEvenAndOdd",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Year",
+            "request": "launch",
+            "mainClass": "Condintion.Condintion.Year",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Loops.Factorial",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "OOPSS",
+            "request": "launch",
+            "mainClass": "Classes.OOPSS",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Abstract",
+            "request": "launch",
+            "mainClass": "Classes.Abstract",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Polymarphism",
+            "request": "launch",
+            "mainClass": "Classes.Polymarphism",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Inheritance",
+            "request": "launch",
+            "mainClass": "Classes.Inheritance",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Parametrized",
+            "request": "launch",
+            "mainClass": "Classes.Parametrized",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "OOPS",
+            "request": "launch",
+            "mainClass": "Classes.OOPS",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "GettersAndSetters",
+            "request": "launch",
+            "mainClass": "Classes.GettersAndSetters",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Constructor",
+            "request": "launch",
+            "mainClass": "Classes.Constructor",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "PrimeOrNot",
+            "request": "launch",
+            "mainClass": "PrimeOrNot",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "GettersAndSetters",
+            "request": "launch",
+            "mainClass": "Clesses.GettersAndSetters",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "OOPS",
+            "request": "launch",
+            "mainClass": "Clesses.OOPS",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "ContinueStatement",
+            "request": "launch",
+            "mainClass": "Loops.ContinueStatement",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Operators.Test",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "CountSetBits",
+            "request": "launch",
+            "mainClass": "CountSetBits",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "PowerOfTwo",
+            "request": "launch",
+            "mainClass": "PowerOfTwo",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "ClearRangeInBits",
+            "request": "launch",
+            "mainClass": "ClearRangeInBits",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "BitManipulationExample",
+            "request": "launch",
+            "mainClass": "BitManipulationExample",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "ClearIbit",
+            "request": "launch",
+            "mainClass": "ClearIbit",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "ClearIthBit",
+            "request": "launch",
+            "mainClass": "ClearIthBit",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "SetIthBit",
+            "request": "launch",
+            "mainClass": "SetIthBit",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "GitIthBit",
+            "request": "launch",
+            "mainClass": "GitIthBit",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "EvenOrOdd",
+            "request": "launch",
+            "mainClass": "EvenOrOdd",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "UpperCase",
+            "request": "launch",
+            "mainClass": "UpperCase",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorldStringBuilder",
+            "request": "launch",
+            "mainClass": "HelloWorldStringBuilder",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "StringBuilder",
+            "request": "launch",
+            "mainClass": "StringBuilder",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Largeststr",
+            "request": "launch",
+            "mainClass": "Largeststr",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "SubString",
+            "request": "launch",
+            "mainClass": "SubString",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Compair",
+            "request": "launch",
+            "mainClass": "Compair",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "ShortedPath",
+            "request": "launch",
+            "mainClass": "ShortedPath",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome",
+            "request": "launch",
+            "mainClass": "Palindrome",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "creatingTwoDArray",
+            "request": "launch",
+            "mainClass": "creatingTwoDArray",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "TwoDarraySearchLocation",
+            "request": "launch",
+            "mainClass": "TwoDarraySearchLocation",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Counting",
+            "request": "launch",
+            "mainClass": "Sorting.Counting",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "InsertionSort",
+            "request": "launch",
+            "mainClass": "Sorting.InsertionSort",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "SelectionSort",
+            "request": "launch",
+            "mainClass": "Sorting.SelectionSort",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "Sorting.BubbleSort",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "PassingArrayArguments",
+            "request": "launch",
+            "mainClass": "PassingArrayArguments",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "CountDigits",
+            "request": "launch",
+            "mainClass": "Loops.CountDigits",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "SortNumber",
+            "request": "launch",
+            "mainClass": "SortNumber",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Rotate",
+            "request": "launch",
+            "mainClass": "Rotate",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "KthMinElelment",
+            "request": "launch",
+            "mainClass": "KthMinElelment",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "MoveNegativeOrPositive",
+            "request": "launch",
+            "mainClass": "MoveNegativeOrPositive",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "eligibleVote",
+            "request": "launch",
+            "mainClass": "eligibleVote",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Greater",
+            "request": "launch",
+            "mainClass": "Greater",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "GCD",
+            "request": "launch",
+            "mainClass": "GCD",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "PositiveOrNegative",
+            "request": "launch",
+            "mainClass": "PositiveOrNegative",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Divisible",
+            "request": "launch",
+            "mainClass": "Divisible",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "DCS",
+            "request": "launch",
+            "mainClass": "DCS",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "AreaPerimeter",
+            "request": "launch",
+            "mainClass": "AreaPerimeter",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "args": [
+                "--extensionDevelopmentPath=${workspaceFolder}"
+            ],
+            "name": "Launch Extension",
+            "outFiles": [
+                "${workspaceFolder}/out/**/*.js"
+            ],
+            "preLaunchTask": "npm",
+            "request": "launch",
+            "type": "extensionHost"
+        },
+        {
+            "type": "java",
+            "request": "attach",
+            "name": "Java",
+            "port": 5005,
+            "sourceRoots": []
+        },
+        {
+            "type": "java",
+            "name": "Marks",
+            "request": "launch",
+            "mainClass": "Marks",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "request": "attach",
+            "name": "Java",
+            "port": 5005,
+            "sourceRoots": []
+        },
+        {
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "request": "attach",
+            "type": "chrome",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "type": "java",
+            "name": "Addition",
+            "request": "launch",
+            "mainClass": "Addition",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "DecToBin",
+            "request": "launch",
+            "mainClass": "DecToBin",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "BinToDec",
+            "request": "launch",
+            "mainClass": "BinToDec",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "PrimeInRange",
+            "request": "launch",
+            "mainClass": "PrimeInRange",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "CheckisPrime",
+            "request": "launch",
+            "mainClass": "CheckisPrime",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "FunctionOverloading",
+            "request": "launch",
+            "mainClass": "FunctionOverloading",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "ButterflyPattern",
+            "request": "launch",
+            "mainClass": "ButterflyPattern",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "EnterNoPNZ",
+            "request": "launch",
+            "mainClass": "EnterNoPNZ",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "calculateMuliyi",
+            "request": "launch",
+            "mainClass": "calculateMuliyi",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Function.Factorial",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "FunctionAndMethods.Factorial",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "FindProduct",
+            "request": "launch",
+            "mainClass": "FindProduct",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "FindProduct",
+            "request": "launch",
+            "mainClass": "Function.Method.FindProduct",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Function",
+            "request": "launch",
+            "mainClass": "Function",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Pattern",
+            "request": "launch",
+            "mainClass": "Pattern",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "FloydsTriangle",
+            "request": "launch",
+            "mainClass": "FloydsTriangle",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "InvertedHalfpyramidwithNumbrs",
+            "request": "launch",
+            "mainClass": "InvertedHalfpyramidwithNumbrs",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "HalfPyramidWithNumbers",
+            "request": "launch",
+            "mainClass": "HalfPyramidWithNumbers",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "RotatedBy180deg",
+            "request": "launch",
+            "mainClass": "RotatedBy180deg",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "HalfPyramid",
+            "request": "launch",
+            "mainClass": "HalfPyramid",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "HollowRectangle",
+            "request": "launch",
+            "mainClass": "HollowRectangle",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "SolidRectrangle",
+            "request": "launch",
+            "mainClass": "SolidRectrangle",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNo",
+            "request": "launch",
+            "mainClass": "Condintion.Loops.PrimeNo",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "ContinueStatement",
+            "request": "launch",
+            "mainClass": "Condintion.Loops.ContinueStatement",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Break",
+            "request": "launch",
+            "mainClass": "Condintion.Loops.Break",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "DoWhileLoops",
+            "request": "launch",
+            "mainClass": "Condintion.Loops.DoWhileLoops",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "ForLoops",
+            "request": "launch",
+            "mainClass": "Condintion.Loops.ForLoops",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "WhileLoops",
+            "request": "launch",
+            "mainClass": "Condintion.Loops.WhileLoops",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "PrintHelloWord",
+            "request": "launch",
+            "mainClass": "Condintion.Loops.PrintHelloWord",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "printHellowWord",
+            "request": "launch",
+            "mainClass": "Condintion.Loops.printHellowWord",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Switch",
+            "request": "launch",
+            "mainClass": "Condintion.Switch",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Switch",
+            "request": "launch",
+            "mainClass": "Switch",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Fever",
+            "request": "launch",
+            "mainClass": "Condintion.Fever",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "ThreeDigitnumber",
+            "request": "launch",
+            "mainClass": "ThreeDigitnumber",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "NEven",
+            "request": "launch",
+            "mainClass": "NEven",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "PositiveOrNegative",
+            "request": "launch",
+            "mainClass": "Condintion.PositiveOrNegative",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "Calculator",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Largest3",
+            "request": "launch",
+            "mainClass": "Largest3",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "incomeTaxClult",
+            "request": "launch",
+            "mainClass": "incomeTaxClult",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Absolute",
+            "request": "launch",
+            "mainClass": "Absolute",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "FibonacciSeries",
+            "request": "launch",
+            "mainClass": "FibonacciSeries",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Power",
+            "request": "launch",
+            "mainClass": "Power",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "average",
+            "request": "launch",
+            "mainClass": "average",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "EvanOdd",
+            "request": "launch",
+            "mainClass": "EvanOdd",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "SumOfOddNo",
+            "request": "launch",
+            "mainClass": "SumOfOddNo",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Patterns",
+            "request": "launch",
+            "mainClass": "Patterns",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "TwoDarraydaingolnal",
+            "request": "launch",
+            "mainClass": "TwoDarraydaingolnal",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "TwoDArray",
+            "request": "launch",
+            "mainClass": "TwoDArray",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Bank",
+            "request": "launch",
+            "mainClass": "Bank",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "StringsBuilder",
+            "request": "launch",
+            "mainClass": "StringsBuilder",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "UserTInput",
+            "request": "launch",
+            "mainClass": "UserTInput",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "ShortArray",
+            "request": "launch",
+            "mainClass": "ShortArray",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "BuyAndSellStocks",
+            "request": "launch",
+            "mainClass": "BuyAndSellStocks",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "DublicateArray",
+            "request": "launch",
+            "mainClass": "DublicateArray",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "AscendingOrder",
+            "request": "launch",
+            "mainClass": "AscendingOrder",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Array",
+            "request": "launch",
+            "mainClass": "Array",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "ContinueStatement",
+            "request": "launch",
+            "mainClass": "ContinueStatement",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "BreakStatement",
+            "request": "launch",
+            "mainClass": "BreakStatement",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Loops",
+            "request": "launch",
+            "mainClass": "Loops",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Odd",
+            "request": "launch",
+            "mainClass": "Odd",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Prime",
+            "request": "launch",
+            "mainClass": "Prime",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "NnaturalNo",
+            "request": "launch",
+            "mainClass": "NnaturalNo",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "TrappedReainwter",
+            "request": "launch",
+            "mainClass": "TrappedReainwter",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "maxSubArraySum",
+            "request": "launch",
+            "mainClass": "maxSubArraySum",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "maxSubArraySumPerfix",
+            "request": "launch",
+            "mainClass": "maxSubArraySumPerfix",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "maxSubArraySumPrefix",
+            "request": "launch",
+            "mainClass": "maxSubArraySumPrefix",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "SubArray",
+            "request": "launch",
+            "mainClass": "SubArray",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "PairArray",
+            "request": "launch",
+            "mainClass": "PairArray",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Reverse",
+            "request": "launch",
+            "mainClass": "Reverse",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearch",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Largest",
+            "request": "launch",
+            "mainClass": "Largest",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "MAXSubarraySum",
+            "request": "launch",
+            "mainClass": "MAXSubarraySum",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "NxMTranspose",
+            "request": "launch",
+            "mainClass": "NxMTranspose",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "sprial",
+            "request": "launch",
+            "mainClass": "sprial",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Strings",
+            "request": "launch",
+            "mainClass": "Strings",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Strings",
+            "request": "launch",
+            "mainClass": "Strings.Strings",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "address": "TCP/IP address of process to be debugged",
+            "localRoot": "${workspaceFolder}",
+            "name": "Attach to Remote",
+            "port": 9229,
+            "remoteRoot": "Absolute path to the remote directory containing the program",
+            "request": "attach",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+        {
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "request": "attach",
+            "type": "chrome",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "request": "attach",
+            "type": "chrome",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearch",
+            "request": "launch",
+            "mainClass": "LinearSearch",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Arrays",
+            "request": "launch",
+            "mainClass": "Arrays",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "address": "TCP/IP address of process to be debugged",
+            "localRoot": "${workspaceFolder}",
+            "name": "Attach to Remote",
+            "port": 9229,
+            "remoteRoot": "Absolute path to the remote directory containing the program",
+            "request": "attach",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}

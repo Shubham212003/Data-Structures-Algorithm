@@ -1,0 +1,11 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.sourcePaths": [
+        "Queation.java",
+        ".vscode/Strings",
+        ".vscode/Patterns",
+        ".vscode/Function & Method",
+        ".vscode/Arrays",
+        ""
+    ]
+}

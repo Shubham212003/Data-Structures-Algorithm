@@ -1,0 +1,413 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ShortArray",
+            "request": "launch",
+            "mainClass": "ShortArray",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "DublicateArray",
+            "request": "launch",
+            "mainClass": "DublicateArray",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "MaxAndMinSum",
+            "request": "launch",
+            "mainClass": "MaxAndMinSum",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "AscendingOrder",
+            "request": "launch",
+            "mainClass": "AscendingOrder",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Largest3",
+            "request": "launch",
+            "mainClass": "Largest3",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Loops",
+            "request": "launch",
+            "mainClass": "Loops",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "EvanOdd",
+            "request": "launch",
+            "mainClass": "EvanOdd",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "DCS",
+            "request": "launch",
+            "mainClass": "DCS",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "ContinueStatement",
+            "request": "launch",
+            "mainClass": "ContinueStatement",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "BreakStatement",
+            "request": "launch",
+            "mainClass": "BreakStatement",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "GCD",
+            "request": "launch",
+            "mainClass": "GCD",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Power",
+            "request": "launch",
+            "mainClass": "Power",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "SumOfOddNo",
+            "request": "launch",
+            "mainClass": "SumOfOddNo",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "PrimeOrNot",
+            "request": "launch",
+            "mainClass": "PrimeOrNot",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Primes",
+            "request": "launch",
+            "mainClass": "Primes",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Addition",
+            "request": "launch",
+            "mainClass": "Addition",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Marks",
+            "request": "launch",
+            "mainClass": "Marks",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "NEven",
+            "request": "launch",
+            "mainClass": "NEven",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Arrays",
+            "request": "launch",
+            "mainClass": "Arrays",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearch",
+            "request": "launch",
+            "mainClass": "LinearSearch",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "PassingArrayArguments",
+            "request": "launch",
+            "mainClass": "PassingArrayArguments",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Percenatge",
+            "request": "launch",
+            "mainClass": "Percenatge",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Prime",
+            "request": "launch",
+            "mainClass": "Prime",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Solutions",
+            "request": "launch",
+            "mainClass": "Solutions",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "isPrimes",
+            "request": "launch",
+            "mainClass": "isPrimes",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "isPrime",
+            "request": "launch",
+            "mainClass": "isPrime",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "FibonacciSeries",
+            "request": "launch",
+            "mainClass": "FibonacciSeries",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "EnterNoPNZ",
+            "request": "launch",
+            "mainClass": "EnterNoPNZ",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "infiniteLoop",
+            "request": "launch",
+            "mainClass": "infiniteLoop",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "eligibleVote",
+            "request": "launch",
+            "mainClass": "eligibleVote",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Cicumference",
+            "request": "launch",
+            "mainClass": "Cicumference",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Greater",
+            "request": "launch",
+            "mainClass": "Greater",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "average",
+            "request": "launch",
+            "mainClass": "average",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "calculateMuliyi",
+            "request": "launch",
+            "mainClass": "calculateMuliyi",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "calculateSum",
+            "request": "launch",
+            "mainClass": "calculateSum",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Function",
+            "request": "launch",
+            "mainClass": "Function",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Absolute",
+            "request": "launch",
+            "mainClass": "Absolute",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "AreaPerimeter",
+            "request": "launch",
+            "mainClass": "AreaPerimeter",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Array",
+            "request": "launch",
+            "mainClass": "Array",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Divisible",
+            "request": "launch",
+            "mainClass": "Divisible",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Largest",
+            "request": "launch",
+            "mainClass": "Largest",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "MAXSubarraySum",
+            "request": "launch",
+            "mainClass": "MAXSubarraySum",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "PairArray",
+            "request": "launch",
+            "mainClass": "PairArray",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Patterns",
+            "request": "launch",
+            "mainClass": "Patterns",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Percentage",
+            "request": "launch",
+            "mainClass": "Percentage",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "ProfitLoss",
+            "request": "launch",
+            "mainClass": "ProfitLoss",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Reverse",
+            "request": "launch",
+            "mainClass": "Reverse",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "SearchElement",
+            "request": "launch",
+            "mainClass": "SearchElement",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "SideOfTriangle",
+            "request": "launch",
+            "mainClass": "SideOfTriangle",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Snippet",
+            "request": "launch",
+            "mainClass": "Snippet",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "Strings",
+            "request": "launch",
+            "mainClass": "Strings",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "SubArray",
+            "request": "launch",
+            "mainClass": "SubArray",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "ThreeDigitnumber",
+            "request": "launch",
+            "mainClass": "ThreeDigitnumber",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "TwoDArray",
+            "request": "launch",
+            "mainClass": "TwoDArray",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "TwoDarraySearchLocation",
+            "request": "launch",
+            "mainClass": "TwoDarraySearchLocation",
+            "projectName": "JAVA Shubham_7a691c2b"
+        },
+        {
+            "type": "java",
+            "name": "UserTInput",
+            "request": "launch",
+            "mainClass": "UserTInput",
+            "projectName": "JAVA Shubham_7a691c2b"
+        }
+    ]
+}

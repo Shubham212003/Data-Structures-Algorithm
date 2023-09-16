@@ -1,0 +1,1043 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "incomeTaxClult",
+            "request": "launch",
+            "mainClass": "ConditionalStatement.incomeTaxClult",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "Largest3",
+            "request": "launch",
+            "mainClass": "ConditionalStatement.Largest3",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "Fever",
+            "request": "launch",
+            "mainClass": "ConditionalStatement.Fever",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "AdultNotAdult",
+            "request": "launch",
+            "mainClass": "Condintion.Condintion.AdultNotAdult",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Absolute",
+            "request": "launch",
+            "mainClass": "Absolute",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "Addition",
+            "request": "launch",
+            "mainClass": "Addition",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "AreaOfCircle",
+            "request": "launch",
+            "mainClass": "AreaOfCircle",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "AreaPerimeter",
+            "request": "launch",
+            "mainClass": "AreaPerimeter",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "Array",
+            "request": "launch",
+            "mainClass": "Array",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "Arrays",
+            "request": "launch",
+            "mainClass": "Arrays",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "AscendingOrder",
+            "request": "launch",
+            "mainClass": "AscendingOrder",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "Bank",
+            "request": "launch",
+            "mainClass": "Bank",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "BinToDec",
+            "request": "launch",
+            "mainClass": "BinToDec",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearch",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "BitManipulationExample",
+            "request": "launch",
+            "mainClass": "BitManipulationExample",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "BreakStatement",
+            "request": "launch",
+            "mainClass": "BreakStatement",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "ButterflyPattern",
+            "request": "launch",
+            "mainClass": "ButterflyPattern",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "BuyAndSellStocks",
+            "request": "launch",
+            "mainClass": "BuyAndSellStocks",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "Calculator",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "CheckisPrime",
+            "request": "launch",
+            "mainClass": "CheckisPrime",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "Cicumference",
+            "request": "launch",
+            "mainClass": "Cicumference",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "Abstract",
+            "request": "launch",
+            "mainClass": "Classes.Abstract",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "Constructor",
+            "request": "launch",
+            "mainClass": "Classes.Constructor",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "GettersAndSetters",
+            "request": "launch",
+            "mainClass": "Classes.GettersAndSetters",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "Inheritance",
+            "request": "launch",
+            "mainClass": "Classes.Inharitance.Inheritance",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "Interface",
+            "request": "launch",
+            "mainClass": "Classes.Interface",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "ClearIbit",
+            "request": "launch",
+            "mainClass": "ClearIbit",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "ClearIthBit",
+            "request": "launch",
+            "mainClass": "ClearIthBit",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "ClearRangeInBits",
+            "request": "launch",
+            "mainClass": "ClearRangeInBits",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "Compair",
+            "request": "launch",
+            "mainClass": "Compair",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "Year",
+            "request": "launch",
+            "mainClass": "Condintion.Condintion.Year",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "Fever",
+            "request": "launch",
+            "mainClass": "Condintion.Fever",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "PositiveOrNegative",
+            "request": "launch",
+            "mainClass": "Condintion.PositiveOrNegative",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "Switch",
+            "request": "launch",
+            "mainClass": "Condintion.Switch",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "CountSetBits",
+            "request": "launch",
+            "mainClass": "CountSetBits",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "DCS",
+            "request": "launch",
+            "mainClass": "DCS",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "DecToBin",
+            "request": "launch",
+            "mainClass": "DecToBin",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "DiamondPattern",
+            "request": "launch",
+            "mainClass": "DiamondPattern",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "Divisible",
+            "request": "launch",
+            "mainClass": "Divisible",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "DublicateArray",
+            "request": "launch",
+            "mainClass": "DublicateArray",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "EnterNoPNZ",
+            "request": "launch",
+            "mainClass": "EnterNoPNZ",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "EvanOdd",
+            "request": "launch",
+            "mainClass": "EvanOdd",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "EvenOrOdd",
+            "request": "launch",
+            "mainClass": "EvenOrOdd",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "FibonacciSeries",
+            "request": "launch",
+            "mainClass": "FibonacciSeries",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "FindProduct",
+            "request": "launch",
+            "mainClass": "FindProduct",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "FloydsTriangle",
+            "request": "launch",
+            "mainClass": "FloydsTriangle",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "Function",
+            "request": "launch",
+            "mainClass": "Function",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "FunctionOverloading",
+            "request": "launch",
+            "mainClass": "FunctionOverloading",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "GCD",
+            "request": "launch",
+            "mainClass": "GCD",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "GitIthBit",
+            "request": "launch",
+            "mainClass": "GitIthBit",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "Greater",
+            "request": "launch",
+            "mainClass": "Greater",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "HalfPyramid",
+            "request": "launch",
+            "mainClass": "HalfPyramid",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "HalfPyramidWithNumbers",
+            "request": "launch",
+            "mainClass": "HalfPyramidWithNumbers",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorldStringBuilder",
+            "request": "launch",
+            "mainClass": "HelloWorldStringBuilder",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "HollowRectangle",
+            "request": "launch",
+            "mainClass": "HollowRectangle",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "InvertedHalfpyramidwithNumbrs",
+            "request": "launch",
+            "mainClass": "InvertedHalfpyramidwithNumbrs",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "KthMinElelment",
+            "request": "launch",
+            "mainClass": "KthMinElelment",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "Largest",
+            "request": "launch",
+            "mainClass": "Largest",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "Largest3",
+            "request": "launch",
+            "mainClass": "Largest3",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "Largeststr",
+            "request": "launch",
+            "mainClass": "Largeststr",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearch",
+            "request": "launch",
+            "mainClass": "LinearSearch",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "Break",
+            "request": "launch",
+            "mainClass": "Loops.Break",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "ContinueStatement",
+            "request": "launch",
+            "mainClass": "Loops.ContinueStatement",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "CountDigits",
+            "request": "launch",
+            "mainClass": "Loops.CountDigits",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "DoWhileLoops",
+            "request": "launch",
+            "mainClass": "Loops.DoWhileLoops",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "FindPower",
+            "request": "launch",
+            "mainClass": "Loops.FindPower",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "ForLoops",
+            "request": "launch",
+            "mainClass": "Loops.ForLoops",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "Loops",
+            "request": "launch",
+            "mainClass": "Loops.Loops",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "MultiplicationTable",
+            "request": "launch",
+            "mainClass": "Loops.MultiplicationTable",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNo",
+            "request": "launch",
+            "mainClass": "Loops.PrimeNo",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "Reversed",
+            "request": "launch",
+            "mainClass": "Loops.Reversed",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "SumEvenAndOdd",
+            "request": "launch",
+            "mainClass": "Loops.SumEvenAndOdd",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "SumOfDigits",
+            "request": "launch",
+            "mainClass": "Loops.SumOfDigits",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "WhileLoops",
+            "request": "launch",
+            "mainClass": "Loops.WhileLoops",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "Marks",
+            "request": "launch",
+            "mainClass": "Marks",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "MaxAndMinSum",
+            "request": "launch",
+            "mainClass": "MaxAndMinSum",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "MinAndMix",
+            "request": "launch",
+            "mainClass": "MinAndMix",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "MoveNegativeOrPositive",
+            "request": "launch",
+            "mainClass": "MoveNegativeOrPositive",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "NEven",
+            "request": "launch",
+            "mainClass": "NEven",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "NnaturalNo",
+            "request": "launch",
+            "mainClass": "NnaturalNo",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "NumberPyramid",
+            "request": "launch",
+            "mainClass": "NumberPyramid",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "NxMTranspose",
+            "request": "launch",
+            "mainClass": "NxMTranspose",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "Odd",
+            "request": "launch",
+            "mainClass": "Odd",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "Arithmetic",
+            "request": "launch",
+            "mainClass": "Operators.Arithmetic",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "Assignment",
+            "request": "launch",
+            "mainClass": "Operators.Assignment",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "Logical",
+            "request": "launch",
+            "mainClass": "Operators.Logical",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "Reational",
+            "request": "launch",
+            "mainClass": "Operators.Reational",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Operators.Test",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "PairArray",
+            "request": "launch",
+            "mainClass": "PairArray",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome",
+            "request": "launch",
+            "mainClass": "Palindrome",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "PalindromicPattern",
+            "request": "launch",
+            "mainClass": "PalindromicPattern",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "PassingArrayArguments",
+            "request": "launch",
+            "mainClass": "PassingArrayArguments",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "Pattern",
+            "request": "launch",
+            "mainClass": "Pattern",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "Patterns",
+            "request": "launch",
+            "mainClass": "Patterns",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "Percenatge",
+            "request": "launch",
+            "mainClass": "Percenatge",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "Percentage",
+            "request": "launch",
+            "mainClass": "Percentage",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "Power",
+            "request": "launch",
+            "mainClass": "Power",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "PowerOfTwo",
+            "request": "launch",
+            "mainClass": "PowerOfTwo",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "Prime",
+            "request": "launch",
+            "mainClass": "Prime",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "PrimeInRange",
+            "request": "launch",
+            "mainClass": "PrimeInRange",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "PrimeOrNot",
+            "request": "launch",
+            "mainClass": "PrimeOrNot",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "ProfitLoss",
+            "request": "launch",
+            "mainClass": "ProfitLoss",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "Factorial(1)",
+            "request": "launch",
+            "mainClass": "Recursion.Factorial",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci",
+            "request": "launch",
+            "mainClass": "Recursion.Fibonacci",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "PrintDecInc",
+            "request": "launch",
+            "mainClass": "Recursion.PrintDecInc",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "SumNNo",
+            "request": "launch",
+            "mainClass": "Recursion.SumNNo",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "Reverse",
+            "request": "launch",
+            "mainClass": "Reverse",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "Rotate",
+            "request": "launch",
+            "mainClass": "Rotate",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "RotatedBy180deg",
+            "request": "launch",
+            "mainClass": "RotatedBy180deg",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "SearchElement",
+            "request": "launch",
+            "mainClass": "SearchElement",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "SetIthBit",
+            "request": "launch",
+            "mainClass": "SetIthBit",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "ShortArray",
+            "request": "launch",
+            "mainClass": "ShortArray",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "ShortedPath",
+            "request": "launch",
+            "mainClass": "ShortedPath",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "SideOfTriangle",
+            "request": "launch",
+            "mainClass": "SideOfTriangle",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "Snippet",
+            "request": "launch",
+            "mainClass": "Snippet",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "SoidRhombus",
+            "request": "launch",
+            "mainClass": "SoidRhombus",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "SolidRectrangle",
+            "request": "launch",
+            "mainClass": "SolidRectrangle",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "SolidRectranglec",
+            "request": "launch",
+            "mainClass": "SolidRectranglec",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "SortNumber",
+            "request": "launch",
+            "mainClass": "SortNumber",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "Sorting.BubbleSort",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "Counting",
+            "request": "launch",
+            "mainClass": "Sorting.Counting",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "InsertionSort",
+            "request": "launch",
+            "mainClass": "Sorting.InsertionSort",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "SelectionSort",
+            "request": "launch",
+            "mainClass": "Sorting.SelectionSort",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "Strings",
+            "request": "launch",
+            "mainClass": "Strings",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "StringsBuilder",
+            "request": "launch",
+            "mainClass": "StringsBuilder",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "SubArray",
+            "request": "launch",
+            "mainClass": "SubArray",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "SubString",
+            "request": "launch",
+            "mainClass": "SubString",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "SumOfOddNo",
+            "request": "launch",
+            "mainClass": "SumOfOddNo",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "ThreeDigitnumber",
+            "request": "launch",
+            "mainClass": "ThreeDigitnumber",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "TrappedReainwter",
+            "request": "launch",
+            "mainClass": "TrappedReainwter",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "Triangle",
+            "request": "launch",
+            "mainClass": "Triangle",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "TwoDArray",
+            "request": "launch",
+            "mainClass": "TwoDArray",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "TwoDarraySearchLocation",
+            "request": "launch",
+            "mainClass": "TwoDArrays.TwoDarraySearchLocation",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "TwoDarraydaingolnal",
+            "request": "launch",
+            "mainClass": "TwoDArrays.TwoDarraydaingolnal",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "creatingTwoDArray",
+            "request": "launch",
+            "mainClass": "TwoDArrays.creatingTwoDArray",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "UpperCase",
+            "request": "launch",
+            "mainClass": "UpperCase",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "UserTInput",
+            "request": "launch",
+            "mainClass": "UserTInput",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "average",
+            "request": "launch",
+            "mainClass": "average",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "calculateMuliyi",
+            "request": "launch",
+            "mainClass": "calculateMuliyi",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "calculateSum",
+            "request": "launch",
+            "mainClass": "calculateSum",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "eligibleVote",
+            "request": "launch",
+            "mainClass": "eligibleVote",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "incomeTaxClult",
+            "request": "launch",
+            "mainClass": "incomeTaxClult",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "infiniteLoop",
+            "request": "launch",
+            "mainClass": "infiniteLoop",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "maxSubArraySum",
+            "request": "launch",
+            "mainClass": "maxSubArraySum",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "maxSubArraySumPerfix",
+            "request": "launch",
+            "mainClass": "maxSubArraySumPerfix",
+            "projectName": "Program_4cc9e76d"
+        },
+        {
+            "type": "java",
+            "name": "sprial",
+            "request": "launch",
+            "mainClass": "sprial",
+            "projectName": "Program_4cc9e76d"
+        }
+    ]
+}
