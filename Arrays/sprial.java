@@ -28,6 +28,7 @@ public class sprial {
             for (int col = colStart; col <= colEnd; col++) {
                 System.out.print(matrix[rowStart][col] + " ");
             }
+
             rowStart++;
 
             // 2

@@ -1,4 +1,3 @@
-package Recursion;
 
 class PrintDecInc {
     public static void printDec(int n) {

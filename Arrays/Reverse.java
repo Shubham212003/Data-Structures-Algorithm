@@ -68,8 +68,8 @@ public class Reverce {
 // time O(n) and Space O(1).
 public class Reverse {
     public static void reverse(int number[]) {
-        int first = 0, Last = number.length - 1; // These variables represent the first and last indices of the array.
-        while (first < Last) {
+        int first = 0, Last = number.length - 1; // These variables represent the first
+        while (first < Last) { // and last indices of the array.
             // swap
             int temp = number[Last];
             number[Last] = number[first];
