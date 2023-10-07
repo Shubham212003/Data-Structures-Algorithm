@@ -75,7 +75,7 @@ import java.util.Scanner;
 public class DCS {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter A Number = ");
+        System.out.println("Enter A Number: ");
         int Number = sc.nextInt();
         if (Number > 0) {
             System.out.println("Number is Positive " + Number);

@@ -1,7 +1,6 @@
-
 // 1 print the Pattern
-// Solid Rectrngle
-public class SolidRectrangle {
+// Solid Rectangle
+public class SolidRectangle {
     public static void main(String[] args) {
         int n = 5;
         int m = 5;

@@ -5,7 +5,7 @@ public class BreakStatement {
         Scanner sc = new Scanner(System.in);
         int i, Number;
         for (i = 0; i < 10; i++) {
-            System.out.println("Enter2 any NUmber : ");
+            System.out.println("Enter any NUmber : ");
             Number = sc.nextInt();
             if (Number <= 0) {
                 System.out.println("Zero or negative value found ");
